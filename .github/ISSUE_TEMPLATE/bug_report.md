@@ -17,6 +17,9 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
+**Modpack version**
+For example 1.20.1_0.0.41.0_fabric_DH.
+
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
