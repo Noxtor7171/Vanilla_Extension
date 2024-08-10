@@ -1,6 +1,6 @@
 ---
 name: Mod Request
-about: Request a new resource pack or mod
+about: Request a new mod
 title: "[MOD REQUEST] "
 labels: enhancement
 assignees: ''
