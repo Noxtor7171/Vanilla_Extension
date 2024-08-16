@@ -1,3 +1,4 @@
+![Vanilla Extension image](https://cdn.modrinth.com/data/fQ9FCNKp/43d9da2bd4a32c8b157d945917d03006b8c5610c.jpeg)
 This modpack aims to optimize the game without losing vanilla mechanics and sprinkles of things that give additional atmosphere. Currently, only it works on Fabric Loader, but I plan to Quilt, Forge and Neoforge versions and all versions with VulkanMod, Nvidium, Distant Horizons and Voxy(some mods haven't in Forge and Neoforge, but I'll try make it in future). Also, maybe I'll port my modpack to older versions (1.16.5–1.19.4). But I don't want to promise anything because I'm the only one doing modpack(. I have other modpacks:
 
 - [Optimized Maxima](https://modrinth.com/modpack/optimized-maxima) — If you want to use only optimization, that I recommend installing this modpack. It updates faster to new versions.)))
